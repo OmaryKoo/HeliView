@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81fe5ff67691fd14692244988fbeca93
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215383
+  packageName: HeliCop
+  packageVersion: 1.0
+  assetPath: Assets/HeliCop_GAU/Materials/HeliCop3_Mat.mat
+  uploadId: 485324

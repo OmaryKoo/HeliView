@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c8e5c486c0a1e0469670c48d9b69aac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215383
+  packageName: HeliCop
+  packageVersion: 1.0
+  assetPath: Assets/HeliCop_GAU/Demo/DemoHeliCopAnimator.controller
+  uploadId: 485324

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41dabd196f497c84c889aa53ba5a151c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 215383
+  packageName: HeliCop
+  packageVersion: 1.0
+  assetPath: Assets/HeliCop_GAU/Prefabs/HeliCop.prefab
+  uploadId: 485324
